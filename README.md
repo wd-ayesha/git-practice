@@ -1,6 +1,6 @@
 <!-- heading 1 -->
-#Learning Git       
+# Learning Git       
 <!-- heading 2 -->
-##Learning Git       
+## Learning Git       
 <!-- heading 3 -->
-###Learning Git       
+### Learning Git       
