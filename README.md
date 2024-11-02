@@ -1,1 +1,6 @@
-<h1>Learning Git</h1>
+<!-- heading 1 -->
+#Learning Git       
+<!-- heading 2 -->
+##Learning Git       
+<!-- heading 3 -->
+###Learning Git       
